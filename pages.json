@@ -1,0 +1,17 @@
+{
+  "rows": [
+    {
+      "title": "My Videos",
+      "pages": [
+        "https://example.com/videos/first-video",
+        "https://example.com/videos/second-video"
+      ]
+    },
+    {
+      "title": "More Videos",
+      "pages": [
+        "https://example.com/videos/third-video"
+      ]
+    }
+  ]
+}
